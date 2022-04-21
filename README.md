@@ -1,10 +1,8 @@
-# # Escola de Inverno - Computação Quântica
+Escola de Inverno - Computação Quântica
 
 ###### tags: `notas_de_aula`
 
-[ToC]
-
-## :memo: Enviar pro Patrick: terça
+## :memo: Resumo
 - [x] Título: Computação Quântica: Introdução e Algoritmos com Qiskit e Pennylane
 - [x] Ementa
 - [x] Carga Horária: 10h
