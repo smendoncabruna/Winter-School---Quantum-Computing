@@ -3,12 +3,12 @@ Escola de Inverno - Computação Quântica
 ###### tags: `notas_de_aula`
 
 ## :memo: Resumo
-- [x] Título: Computação Quântica: Introdução e Algoritmos com Qiskit e Pennylane
-- [x] Ementa
-- [x] Carga Horária: 10h
-- [ ] Descrição
-- [x] Pré-Requisitos: algebra linear
-- [ ] Bibliografia
+- Título: Computação Quântica: Introdução e Algoritmos com Qiskit e Pennylane
+- Ementa
+- Carga Horária: 10h
+- Descrição
+- Pré-Requisitos: algebra linear
+- Bibliografia
 
 ## :memo: Conteudo
 - Dia 1: Intro
