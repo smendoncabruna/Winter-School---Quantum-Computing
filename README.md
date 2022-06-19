@@ -2,7 +2,6 @@
 
 Please check the [workshop website](https://lambdadps.github.io/workshops/Qiskit.html) for updates.
 
-[ToC]
 
 ## :eyes: Overview
 
