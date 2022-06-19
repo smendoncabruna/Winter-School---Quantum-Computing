@@ -9,7 +9,7 @@ Please check the [workshop website](https://lambdadps.github.io/workshops/Qiskit
 - **Workload:** 8h
 - **Requirements:** linear algebra, familiarity with programming (preferrably Python)
 - **Bibliography:**
-    - Nielsen, Michael A., and Isaac Chuang. "Quantum computation and quantum information." (2002): 558-559.
+    - Nielsen, Michael A., and Isaac Chuang. "Quantum computation and quantum information." (2002).
     - Lecture Notes for Physics 219: Quantum Computation https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.70.9272&rep=rep1&type=pdf
     - Qiskit textbook: https://qiskit.org/textbook/preface.html
 
